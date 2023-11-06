@@ -1,0 +1,5 @@
+django==4.2.7
+djangorestframework==3.14.0
+django-social-auth==0.7.28
+django-extensions==3.2.3
+psycopg2-binary==2.9.9
